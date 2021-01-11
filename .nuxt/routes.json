@@ -1,0 +1,30 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/huynd/Desktop/pronuri/chat/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_b0037246"
+  },
+  {
+    "name": "my_page",
+    "path": "/my_page",
+    "component": "/home/huynd/Desktop/pronuri/chat/pages/my_page/index.vue",
+    "chunkName": "pages/my_page/index",
+    "_name": "_08c3d336"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/huynd/Desktop/pronuri/chat/pages/register/index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_b3349876"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/huynd/Desktop/pronuri/chat/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_418fe8c3"
+  }
+]
